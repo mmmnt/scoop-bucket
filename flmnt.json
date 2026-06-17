@@ -1,0 +1,22 @@
+{
+    "version": "0.1.2",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/mmmnt/flmnt-cli/releases/download/v0.1.2/flmnt_0.1.2_windows_amd64.zip",
+            "bin": [
+                "flmnt.exe"
+            ],
+            "hash": "d04ceaf261317043b14e05b403f213a4927d7a827303481cf1c55e3b143e282b"
+        },
+        "arm64": {
+            "url": "https://github.com/mmmnt/flmnt-cli/releases/download/v0.1.2/flmnt_0.1.2_windows_arm64.zip",
+            "bin": [
+                "flmnt.exe"
+            ],
+            "hash": "a2588955aecd4bd64a5de47ada6261fb06701b858595d45c2eca9f67c29e3de4"
+        }
+    },
+    "homepage": "https://flmnt.dev",
+    "license": "Apache-2.0",
+    "description": "The developer CLI for the flmnt event-stream memory platform"
+}
