@@ -1,19 +1,19 @@
 {
-    "version": "1.4.0",
+    "version": "1.5.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/mmmnt/flmnt-cli/releases/download/v1.4.0/flmnt_1.4.0_windows_amd64.zip",
+            "url": "https://github.com/mmmnt/flmnt-cli/releases/download/v1.5.0/flmnt_1.5.0_windows_amd64.zip",
             "bin": [
                 "flmnt.exe"
             ],
-            "hash": "6371f0daf885269e72aa8afdda1ac0ef4609c16462e42dcd4a0a7d12388aad87"
+            "hash": "f38b20b4bb9bce0c0f71ad4dcf6d0f293b7caaf3d565e78a6a93d9eff63ceef9"
         },
         "arm64": {
-            "url": "https://github.com/mmmnt/flmnt-cli/releases/download/v1.4.0/flmnt_1.4.0_windows_arm64.zip",
+            "url": "https://github.com/mmmnt/flmnt-cli/releases/download/v1.5.0/flmnt_1.5.0_windows_arm64.zip",
             "bin": [
                 "flmnt.exe"
             ],
-            "hash": "6fafbf05d869b9b4c2800921a37c478b604532c80b822802d6232a5e9178b901"
+            "hash": "03d85c348620fbf061d58b0add9159ab3c01d617725f1f7384018b4e4b11b02a"
         }
     },
     "homepage": "https://flmnt.dev",
